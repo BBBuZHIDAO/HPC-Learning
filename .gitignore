@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+
+# ---------- LATEX ----------
+*.aux
+*.fls
+*.log
+*.toc
+*.fdb_latexmk
+*.synctex.gz
