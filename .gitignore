@@ -39,3 +39,5 @@
 *.toc
 *.fdb_latexmk
 *.synctex.gz
+*.synctex(busy)
+*.synctex.gz(busy)
